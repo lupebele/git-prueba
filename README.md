@@ -1,0 +1,3 @@
+# git-prueba
+
+command git
